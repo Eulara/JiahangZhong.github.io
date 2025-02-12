@@ -15,16 +15,22 @@ You can find my CV here: [Jiahang Zhong's Curriculum Vitae](.../assets/CV.pdf)
 
 [Email](zjh2369542014@mail.ustc.edu.cn)
 
+I have some ongoing project:
+
+GWs from PT catalyzed by PBH
+
+Dynamical systme of Lovelock Cosmology
+
 I have done some course project before:
 
-[Cosmological Phase Transition and Gravitational Waves](.../asset/.pdf) in the course Compuational Physics, which is a report and replicate of Article [Two-Field Cosmological Phase Transitions and Gravitational Waves in the Singlet Majoron](https://arxiv.org/abs/1804.05835)
+[Cosmological Phase Transition and Gravitational Waves](.../assets/.pdf) in the course Compuational Physics, which is a report and replicate of Article [Two-Field Cosmological Phase Transitions and Gravitational Waves in the Singlet Majoron](https://arxiv.org/abs/1804.05835)
 
-[Debye phonon](.../asset/debye.pdf) in the course Thermodynamics and Statistical Physics A, which is an introduction of finite temperature field theory and its application on Debye phonon.
+[Debye phonon](.../assets/debye.pdf) in the course Thermodynamics and Statistical Physics A, which is an introduction of finite temperature field theory and its application on Debye phonon.
 
-[Quantization of Vector Field]() in the course Quantum Field Theory, which is a report of general quantization method of vector field.
+[Quantization of Vector Field](.../assets/vector field canonical quanti.pdf) in the course Quantum Field Theory, which is a report of general quantization method of vector field.
 
-[Atom origin](.../asset/Atom origin.pdf) in the course Atom Physics A, which is an introduction to early universe, Big Bang Nucleosynthesis and recombination, aiming to explain what is the origin of atoms.
+[Atom origin](.../assets/Atom origin.pdf) in the course Atom Physics A, which is an introduction to early universe, Big Bang Nucleosynthesis and recombination, aiming to explain what is the origin of atoms.
 
-[Collective Sideband Transition Based on Optical Adiabatic Control](.../asset/Collective Sideband Transitions Based on Optical Adiabatic Control.pdf) in the course Optics A, which is an introduction to Coherent population transfer among quantum states of atoms and molecules.
+[Collective Sideband Transition Based on Optical Adiabatic Control](.../assets/Collective Sideband Transitions Based on Optical Adiabatic Control.pdf) in the course Optics A, which is an introduction to Coherent population transfer among quantum states of atoms and molecules.
 
 
