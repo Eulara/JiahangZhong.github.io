@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Pro. Yifu Cai](http://staff.ustc.edu.cn/~y
 
 You can find my CV here: [Jiahang Zhong's Curriculum Vitae](../assets/CV.pdf)
 
-[Email](zjh2369542014@mail.ustc.edu.cn)
+[Email](zjh2369542014@mail.ustc.edu.cn) zjh2369542014@mail.ustc.edu.cn
 
 I have some ongoing project:
 
