@@ -14,3 +14,12 @@ I am very fortunate to be advised by [Pro. Yifu Cai](http://staff.ustc.edu.cn/~y
 You can find my CV here: [Jiahang Zhong's Curriculum Vitae](.../assets/CV.pdf)
 
 [Email](zjh2369542014@mail.ustc.edu.cn)
+
+I have done some course project before:
+
+[Cosmological Phase Transition and Gravitational Waves](.../asset/.pdf) in the course Compuational Physics, which is a report and replicate of Article [Two-Field Cosmological Phase Transitions and Gravitational Waves in the Singlet Majoron](https://arxiv.org/abs/1804.05835)
+
+[Debye phonon](.../asset/debye.pdf) in the course Thermodynamics and Statistical Physics A, which is a introduction of finite temperature field theory and its application on Debye phonon.
+
+
+
