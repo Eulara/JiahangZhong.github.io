@@ -15,13 +15,13 @@ You can find my CV here: [Jiahang Zhong's Curriculum Vitae](https://eulara.githu
 
 [Email](zjh2369542014@mail.ustc.edu.cn) zjh2369542014@mail.ustc.edu.cn
 
-I have some ongoing project:
+**I have some ongoing project:**
 
 GWs from PT catalyzed by PBH
 
 Dynamical systme of Lovelock Cosmology
 
-I have done some course project before:
+**I have done some course project before:**
 
 [Cosmological Phase Transition and Gravitational Waves](https://eulara.github.io/JiahangZhong.github.io/assets/.pdf) in the course Compuational Physics, which is a report and replicate of Article [Two-Field Cosmological Phase Transitions and Gravitational Waves in the Singlet Majoron](https://arxiv.org/abs/1804.05835)
 
