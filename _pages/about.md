@@ -27,10 +27,10 @@ I have done some course project before:
 
 [Debye phonon](../assets/debye.pdf) in the course Thermodynamics and Statistical Physics A, which is an introduction of finite temperature field theory and its application on Debye phonon.
 
-[Quantization of Vector Field](../assets/vector field canonical quanti.pdf) in the course Quantum Field Theory, which is a report of general quantization method of vector field.
+[Quantization of Vector Field](../assets/vectorfield.pdf) in the course Quantum Field Theory, which is a report of general quantization method of vector field.
 
-[Atom origin](../assets/Atom origin.pdf) in the course Atom Physics A, which is an introduction to early universe, Big Bang Nucleosynthesis and recombination, aiming to explain what is the origin of atoms.
+[Atom origin](../assets/Atomorigin.pdf) in the course Atom Physics A, which is an introduction to early universe, Big Bang Nucleosynthesis and recombination, aiming to explain what is the origin of atoms.
 
-[Collective Sideband Transition Based on Optical Adiabatic Control](../assets/Collective Sideband Transitions Based on Optical Adiabatic Control.pdf) in the course Optics A, which is an introduction to Coherent population transfer among quantum states of atoms and molecules.
+[Collective Sideband Transition Based on Optical Adiabatic Control](../assets/Collective.pdf) in the course Optics A, which is an introduction to Coherent population transfer among quantum states of atoms and molecules.
 
 
