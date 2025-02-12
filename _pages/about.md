@@ -12,3 +12,5 @@ I'm a third year undergraudate student from School of the Gifted Young, Universi
 I am very fortunate to be advised by [Pro. Yifu Cai](http://staff.ustc.edu.cn/~yifucai/) of [Cospa Lab](https://cospa.ustc.edu.cn/main.htm) from  Department of Astronomy, School of Physical Sciences, University of Science and Technology of China.
 
 You can find my CV here: [Jiahang Zhong's Curriculum Vitae](.../assets/CV.pdf)
+
+[Email](zjh2369542014@mail.ustc.edu.cn)
