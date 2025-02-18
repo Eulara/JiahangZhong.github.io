@@ -23,7 +23,7 @@ Dynamical systme of Lovelock Cosmology
 
 **I have done some course project before:**
 
-[Cosmological Phase Transition and Gravitational Waves](https://eulara.github.io/JiahangZhong.github.io/assets/.pdf) in the course Compuational Physics, which is a report and replicate of Article [Two-Field Cosmological Phase Transitions and Gravitational Waves in the Singlet Majoron](https://arxiv.org/abs/1804.05835)
+[Cosmological Phase Transition and Gravitational Waves](https://eulara.github.io/JiahangZhong.github.io/assets/CosPT.pdf) in the course Compuational Physics, which is a report and replicate of Article [Two-Field Cosmological Phase Transitions and Gravitational Waves in the Singlet Majoron](https://arxiv.org/abs/1804.05835)
 
 [Debye phonon](https://eulara.github.io/JiahangZhong.github.io/assets/debye.pdf) in the course Thermodynamics and Statistical Physics A, which is an introduction of finite temperature field theory and its application on Debye phonon.
 
