@@ -15,11 +15,11 @@ You can find my CV here: [Jiahang Zhong's Curriculum Vitae](https://eulara.githu
 
 [Email](zjh2369542014@mail.ustc.edu.cn) zjh2369542014@mail.ustc.edu.cn
 
-**I have some ongoing project:**
+**My inspire page is:** [Jiahang Zhong (USTC)](https://inspirehep.net/authors/2913379)
 
-GWs from PT catalyzed by PBH
+**Research Experience:**
 
-Dynamical systme of Lovelock Cosmology
+Can asteroid-mass PBHDM be compatible with catalyzed phase transition interpretation of PTA? Arxiv:[2504.12105](https://arxiv.org/abs/2504.12105)
 
 **I have done some course project before:**
 
